@@ -1,5 +1,4 @@
-## Understanding mainstreaming phenomena in linguistics
-Using large-scale text corpora
+## Understanding mainstreaming phenomena in linguistics using large-scale text corpora
 
 *Code and data for thesis by Nina Melin and Nadja Riis*
 
