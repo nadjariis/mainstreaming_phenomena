@@ -1,6 +1,10 @@
 # mainstreaming_phenomena
 *Code and data for thesis by Nina Melin and Nadja Riis*
 
+Find the clean data here:
+
+https://drive.google.com/drive/folders/1hYDz1J-5i1SxgfXnov09Ys9u8sV-kGRk?usp=sharing
+
 Data can be loaded into a pyspark dataframe, by defining the schema:
 
     schema = StructType([
